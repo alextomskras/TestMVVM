@@ -9,17 +9,17 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
-    <string name="add_creature" />
-    <string name="creature_saved" />
-    <string name="error_saving_creature" />
-    <string name="tap_to_set_avatar" />
-    <string name="avatar" />
-    <string name="name" />
-    <string name="creature_name" />
-    <string name="intelligence" />
-    <string name="strength" />
-    <string name="endurance" />
-    <string name="hit_points" />
-    <string name="save" />
-    <string name="clear_all_creatures" />
+    <string name="add_creature">add_creature </string>
+    <string name="creature_saved">creature_saved </string>
+    <string name="error_saving_creature">error_saving_creature </string>
+    <string name="tap_to_set_avatar">tap_to_set_avatar </string>
+    <string name="avatar">avatar </string>
+    <string name="name">name </string>
+    <string name="creature_name">creature_name </string>
+    <string name="intelligence">intelligence </string>
+    <string name="strength">strength </string>
+    <string name="endurance">endurance </string>
+    <string name="hit_points">hit_points </string>
+    <string name="save">save</string>
+    <string name="clear_all_creatures">clear_all_creatures</string>
 </resources>
